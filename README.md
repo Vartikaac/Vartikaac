@@ -16,4 +16,4 @@ I'm **Vartika Shrivastava**, a business analyst ho loves to create, explore, and
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact)
 
 ## 🌍 Connect With Me
-- [LinkedIn]([https://www.linkedin.com/in/johndoe/](https://www.linkedin.com/in/vartika-srivastava-0048321b1/)
+- [LinkedIn](https://www.linkedin.com/in/vartika-srivastava-0048321b1/)
