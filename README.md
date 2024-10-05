@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Vartika Shrivastava**, a business analyst ho loves to create, explore, and contribute to open-source projects. My interests range from front-end web development to machine learning and data science.
+I'm **Vartika Shrivastava**, a business analyst who loves to create, explore, and contribute to open-source projects. My interests range from front-end web development to machine learning and data science.
 
 ## 🔧 Skills
 - **Languages**: Python, R , SQL , HTML
