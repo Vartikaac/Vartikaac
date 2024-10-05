@@ -3,13 +3,17 @@
 I'm **Vartika Shrivastava**, a business analyst ho loves to create, explore, and contribute to open-source projects. My interests range from front-end web development to machine learning and data science.
 
 ## 🔧 Skills
-- **Languages**: Python, JavaScript, HTML/CSS
-- **Frameworks**: React, Django
-- **Tools**: Git, Docker, Jenkins
+- **Languages**: Python, R , SQL , HTML
+- **Frameworks**: Quarto , Scikit-learn , Power BI 
+- **Tools**: Git, Jupyter Notebook , Mermaid
+
 
 ## 🚀 Projects
-- [E-commerce Store](https://github.com/johndoe/ecommerce-store): A full-stack e-commerce website built with Django and React.
-- [AI Chatbot](https://github.com/johndoe/ai-chatbot): A machine learning chatbot that helps automate customer support.
+- [Quarto-Based_Data_Integration_using_R](https://github.com/Vartikaac/Quarto-Based_Data_Integration_using_R)
+- [Predicting-Music_Trends_with_MachineLearning](https://github.com/Vartikaac/Predicting-Music_Trends_with_MachineLearning)
+- [Ecomm_salesReport_using_PowerBi](https://github.com/Vartikaac/Ecomm_salesReport_using_PowerBi)
+- [Orderdata_analysis_using_sql](https://github.com/Vartikaac/Orderdata_analysis_using_sql)
+- [Walmart_sales_data_analysis](https://github.com/Vartikaac/Walmart_sales_data_analysis)
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
