@@ -9,11 +9,11 @@ I'm **Vartika Shrivastava**, a business analyst who loves to create, explore, an
 
 
 ## 🚀 Projects
-- [Quarto-Based_Data_Integration_using_R](https://github.com/Vartikaac/Quarto-Based_Data_Integration_using_R)
 - [Predicting-Music_Trends_with_MachineLearning](https://github.com/Vartikaac/Predicting-Music_Trends_with_MachineLearning)
 - [Ecomm_salesReport_using_PowerBi](https://github.com/Vartikaac/Ecomm_salesReport_using_PowerBi)
 - [Orderdata_analysis_using_sql](https://github.com/Vartikaac/Orderdata_analysis_using_sql)
 - [Walmart_sales_data_analysis](https://github.com/Vartikaac/Walmart_sales_data_analysis)
+- [Quarto-Based_Data_Integration_using_R](https://github.com/Vartikaac/Quarto-Based_Data_Integration_using_R)
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vartikaac&show_icons=true&theme=radical)
