@@ -16,8 +16,8 @@ I'm **Vartika Shrivastava**, a business analyst ho loves to create, explore, and
 - [Walmart_sales_data_analysis](https://github.com/Vartikaac/Walmart_sales_data_analysis)
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vartikaac&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vartikaac&layout=compact)
 
 ## 🌍 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/vartika-srivastava-0048321b1/)
